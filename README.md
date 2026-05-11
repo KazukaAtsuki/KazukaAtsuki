@@ -12,7 +12,7 @@
 *   👨‍💻 **Role:** Fullstack Developer (Frontend & Backend Enthusiast).
 *   🎓 **Status:** SMK Taruna Bhakti Depok in **Software Engineering (RPL)**.
 *   🏢 **Current Project:** Developing **GenZys DAS 4.0** & **Authorization Center**.
-*   🎯 **Current Focus:** Mastery in **Laravel 12**, **FastAPI**, and **Industrial IoT Integration**.
+*   🎯 **Current Focus:** Mastery in **Laravel 12-13**, **FastAPI**, and **Industrial IoT Integration**.
 *   🇯🇵 **Identity:** Known as **Kazuka** (一華) in the digital world.
 *   ⭐ **Motto:** *Keizoku wa chikara nari* (継続は力なり) — "Continuity is strength."
 
